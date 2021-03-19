@@ -1,4 +1,4 @@
-# Botão Adicionar filtros
+# Botão 'Adicionar filtros'
  Componente criado com React e Bootstrap!
 
  ## Getting Started
